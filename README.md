@@ -1,0 +1,2 @@
+This repository is going to be used as a storage for an end-of-degree project (TFG) which consists of the creation of a model to predict nfl rookie performance based on NCAA stats and NFL Combine results. The data consists of rookie performance stats, which in turn consist of: QB passing stats (attempts, completions, TDs, INTs, QBR, etc), Receiving stats (receptions, receiving yards, receiving TDs, etc), rushing stats (rushing attempts, rushing yards, rushing TDs, etc), and defensive stats (INTs, Tackles, Sacks, etc). 
+By Alexander Laugesen Rejón
